@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode
+END
+NKDExtendedCode39Barcode.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/NKDExtendedCode39Barcode.m
+END
+NKDEAN13Barcode.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/NKDEAN13Barcode.m
+END
+NKDPlanetBarcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/NKDPlanetBarcode.h
+END
+NKDPlanetBarcode.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/NKDPlanetBarcode.m
+END
+NKDRoyalMailBarcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/NKDRoyalMailBarcode.h
+END
+NKDInterleavedTwoOfFiveBarcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/NKDInterleavedTwoOfFiveBarcode.h
+END
+NKDEAN8Barcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/NKDEAN8Barcode.h
+END
+NKDCodabarBarcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/NKDCodabarBarcode.h
+END
+NKDPostnetBarcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/NKDPostnetBarcode.h
+END
+UIImage-NKDBarcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/UIImage-NKDBarcode.h
+END
+NKDRoyalMailBarcode.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/NKDRoyalMailBarcode.m
+END
+NKDAbstractUPCEANBarcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/NKDAbstractUPCEANBarcode.h
+END
+NKDInterleavedTwoOfFiveBarcode.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/NKDInterleavedTwoOfFiveBarcode.m
+END
+NKDEAN8Barcode.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/NKDEAN8Barcode.m
+END
+NKDCodabarBarcode.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/NKDCodabarBarcode.m
+END
+NKDPostnetBarcode.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/NKDPostnetBarcode.m
+END
+UIImage-NKDBarcode.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/UIImage-NKDBarcode.m
+END
+NSString-UPCEAN.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/NSString-UPCEAN.h
+END
+NKDAbstractUPCEANBarcode.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/NKDAbstractUPCEANBarcode.m
+END
+NKDBarcodeOffscreenView.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/NKDBarcodeOffscreenView.h
+END
+NKDCode128Barcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/NKDCode128Barcode.h
+END
+NKDIndustrialTwoOfFiveBarcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/NKDIndustrialTwoOfFiveBarcode.h
+END
+NSString-UPCEAN.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/NSString-UPCEAN.m
+END
+NKDBarcodeOffscreenView.m
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/NKDBarcodeOffscreenView.m
+END
+NKDCode128Barcode.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/NKDCode128Barcode.m
+END
+NKDIndustrialTwoOfFiveBarcode.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/NKDIndustrialTwoOfFiveBarcode.m
+END
+NKDBarcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/NKDBarcode.h
+END
+NKDBarcode.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/NKDBarcode.m
+END
+NKDModifiedPlesseyBarcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/NKDModifiedPlesseyBarcode.h
+END
+NKDCode39Barcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/NKDCode39Barcode.h
+END
+NKDUPCABarcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/NKDUPCABarcode.h
+END
+NKDModifiedPlesseyHexBarcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/NKDModifiedPlesseyHexBarcode.h
+END
+NKDModifiedPlesseyBarcode.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/NKDModifiedPlesseyBarcode.m
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/README
+END
+NKDCode39Barcode.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/NKDCode39Barcode.m
+END
+NKDUPCEBarcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/NKDUPCEBarcode.h
+END
+NKDBarcodeFramework.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/NKDBarcodeFramework.h
+END
+NKDUPCABarcode.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/NKDUPCABarcode.m
+END
+NKDModifiedPlesseyHexBarcode.m
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/NKDModifiedPlesseyHexBarcode.m
+END
+NKDUPCEBarcode.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/NKDUPCEBarcode.m
+END
+UIImage-Normalize.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/UIImage-Normalize.h
+END
+JapanPostBarcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/JapanPostBarcode.h
+END
+UIImage-Normalize.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/UIImage-Normalize.m
+END
+NKDExtendedCode39Barcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/NKDExtendedCode39Barcode.h
+END
+JapanPostBarcode.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/JapanPostBarcode.m
+END
+NKDEAN13Barcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/createBarCode/NKDEAN13Barcode.h
+END

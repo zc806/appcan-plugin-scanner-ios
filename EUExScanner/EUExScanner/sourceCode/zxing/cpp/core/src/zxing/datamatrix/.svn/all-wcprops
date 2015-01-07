@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/plugin3.0_ios/!svn/ver/85/trunk/code/public/EUExScanner/EUExScanner/sourceCode/zxing/cpp/core/src/zxing/datamatrix
+END
+DataMatrixReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/plugin3.0_ios/!svn/ver/85/trunk/code/public/EUExScanner/EUExScanner/sourceCode/zxing/cpp/core/src/zxing/datamatrix/DataMatrixReader.cpp
+END
+Version.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/plugin3.0_ios/!svn/ver/85/trunk/code/public/EUExScanner/EUExScanner/sourceCode/zxing/cpp/core/src/zxing/datamatrix/Version.cpp
+END
+DataMatrixReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/plugin3.0_ios/!svn/ver/85/trunk/code/public/EUExScanner/EUExScanner/sourceCode/zxing/cpp/core/src/zxing/datamatrix/DataMatrixReader.h
+END
+Version.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/plugin3.0_ios/!svn/ver/85/trunk/code/public/EUExScanner/EUExScanner/sourceCode/zxing/cpp/core/src/zxing/datamatrix/Version.h
+END

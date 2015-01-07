@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/plugin3.0_ios/!svn/ver/85/trunk/code/public/EUExScanner/EUExScanner/sourceCode/zxing/cpp/core/src/zxing/qrcode/decoder
+END
+DecodedBitStreamParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/plugin3.0_ios/!svn/ver/85/trunk/code/public/EUExScanner/EUExScanner/sourceCode/zxing/cpp/core/src/zxing/qrcode/decoder/DecodedBitStreamParser.cpp
+END
+BitMatrixParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/plugin3.0_ios/!svn/ver/85/trunk/code/public/EUExScanner/EUExScanner/sourceCode/zxing/cpp/core/src/zxing/qrcode/decoder/BitMatrixParser.cpp
+END
+DataBlock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/plugin3.0_ios/!svn/ver/85/trunk/code/public/EUExScanner/EUExScanner/sourceCode/zxing/cpp/core/src/zxing/qrcode/decoder/DataBlock.cpp
+END
+DecodedBitStreamParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/plugin3.0_ios/!svn/ver/85/trunk/code/public/EUExScanner/EUExScanner/sourceCode/zxing/cpp/core/src/zxing/qrcode/decoder/DecodedBitStreamParser.h
+END
+Mode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/plugin3.0_ios/!svn/ver/85/trunk/code/public/EUExScanner/EUExScanner/sourceCode/zxing/cpp/core/src/zxing/qrcode/decoder/Mode.cpp
+END
+BitMatrixParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/plugin3.0_ios/!svn/ver/85/trunk/code/public/EUExScanner/EUExScanner/sourceCode/zxing/cpp/core/src/zxing/qrcode/decoder/BitMatrixParser.h
+END
+DataMask.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/plugin3.0_ios/!svn/ver/85/trunk/code/public/EUExScanner/EUExScanner/sourceCode/zxing/cpp/core/src/zxing/qrcode/decoder/DataMask.cpp
+END
+Decoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/plugin3.0_ios/!svn/ver/85/trunk/code/public/EUExScanner/EUExScanner/sourceCode/zxing/cpp/core/src/zxing/qrcode/decoder/Decoder.cpp
+END
+DataBlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/plugin3.0_ios/!svn/ver/85/trunk/code/public/EUExScanner/EUExScanner/sourceCode/zxing/cpp/core/src/zxing/qrcode/decoder/DataBlock.h
+END
+Mode.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/plugin3.0_ios/!svn/ver/85/trunk/code/public/EUExScanner/EUExScanner/sourceCode/zxing/cpp/core/src/zxing/qrcode/decoder/Mode.h
+END
+DataMask.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/plugin3.0_ios/!svn/ver/85/trunk/code/public/EUExScanner/EUExScanner/sourceCode/zxing/cpp/core/src/zxing/qrcode/decoder/DataMask.h
+END
+Decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/plugin3.0_ios/!svn/ver/85/trunk/code/public/EUExScanner/EUExScanner/sourceCode/zxing/cpp/core/src/zxing/qrcode/decoder/Decoder.h
+END

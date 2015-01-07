@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2763F7EF-3E9C-4BF2-8529-2ADD65E4DA09</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ZXingWidget</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>032B7E6B-F391-4EED-915C-BF6CC2E96A83</key>
+		<string>https://192.168.1.38/svn/Plugin3.0_IOS/trunk/code/public/EUExScanner/sourceCode</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>zxing/iphone/ZXingWidget/ZXingWidget.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>032B7E6B-F391-4EED-915C-BF6CC2E96A83</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>032B7E6B-F391-4EED-915C-BF6CC2E96A83</key>
+		<string>https://192.168.1.38/svn/Plugin3.0_IOS</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://192.168.1.38/svn/Plugin3.0_IOS/trunk/code/public/EUExScanner/sourceCode/zxing/iphone/ZXingWidget/ZXingWidget.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>032B7E6B-F391-4EED-915C-BF6CC2E96A83</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>032B7E6B-F391-4EED-915C-BF6CC2E96A83</string>
+			<key>IDESourceControlWCCName</key>
+			<string>sourceCode</string>
+		</dict>
+	</array>
+</dict>
+</plist>

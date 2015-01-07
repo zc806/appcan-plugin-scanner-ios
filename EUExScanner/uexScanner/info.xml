@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uexplugins>
+    <plugin
+        uexName="uexScanner" version="3.0.3" build="3">
+        <info>3:修改"确定"按钮图片读不出来bug</info>
+        <build>2:添加二维码“取消”按钮</build>
+        <build>1:增加生成条形码和二维码的接口</build>
+        <build>0:条形码二维码扫描功能插件</build>
+    </plugin>
+</uexplugins>

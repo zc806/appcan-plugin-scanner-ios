@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/plugin3.0_ios/!svn/ver/85/trunk/code/public/EUExScanner/EUExScanner/sourceCode/zxing/cpp/core/src/zxing/multi
+END
+MultipleBarcodeReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/plugin3.0_ios/!svn/ver/85/trunk/code/public/EUExScanner/EUExScanner/sourceCode/zxing/cpp/core/src/zxing/multi/MultipleBarcodeReader.cpp
+END
+GenericMultipleBarcodeReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/plugin3.0_ios/!svn/ver/85/trunk/code/public/EUExScanner/EUExScanner/sourceCode/zxing/cpp/core/src/zxing/multi/GenericMultipleBarcodeReader.h
+END
+ByQuadrantReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/plugin3.0_ios/!svn/ver/85/trunk/code/public/EUExScanner/EUExScanner/sourceCode/zxing/cpp/core/src/zxing/multi/ByQuadrantReader.h
+END
+MultipleBarcodeReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/plugin3.0_ios/!svn/ver/85/trunk/code/public/EUExScanner/EUExScanner/sourceCode/zxing/cpp/core/src/zxing/multi/MultipleBarcodeReader.h
+END
+GenericMultipleBarcodeReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/plugin3.0_ios/!svn/ver/85/trunk/code/public/EUExScanner/EUExScanner/sourceCode/zxing/cpp/core/src/zxing/multi/GenericMultipleBarcodeReader.cpp
+END
+ByQuadrantReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/plugin3.0_ios/!svn/ver/85/trunk/code/public/EUExScanner/EUExScanner/sourceCode/zxing/cpp/core/src/zxing/multi/ByQuadrantReader.cpp
+END

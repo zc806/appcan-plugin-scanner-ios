@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/libqrencode
+END
+QRCodeGenerator.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/libqrencode/QRCodeGenerator.m
+END
+bitstream.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/libqrencode/bitstream.h
+END
+qrencode.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/libqrencode/qrencode.c
+END
+mask.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/libqrencode/mask.h
+END
+split.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/libqrencode/split.h
+END
+qrspec.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/libqrencode/qrspec.h
+END
+qrinput.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/libqrencode/qrinput.c
+END
+qrencode.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/libqrencode/qrencode.h
+END
+qrinput.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/libqrencode/qrinput.h
+END
+rscode.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/libqrencode/rscode.c
+END
+.DS_Store
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/libqrencode/.DS_Store
+END
+rscode.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/libqrencode/rscode.h
+END
+QRCodeGenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/libqrencode/QRCodeGenerator.h
+END
+bitstream.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/libqrencode/bitstream.c
+END
+split.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/libqrencode/split.c
+END
+mask.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/libqrencode/mask.c
+END
+qrspec.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/plugin3.0_ios/!svn/ver/819/trunk/code/public/EUExScanner/EUExScanner/sourceCode/libqrencode/qrspec.c
+END

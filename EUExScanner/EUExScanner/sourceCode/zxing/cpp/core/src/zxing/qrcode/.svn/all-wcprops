@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/plugin3.0_ios/!svn/ver/85/trunk/code/public/EUExScanner/EUExScanner/sourceCode/zxing/cpp/core/src/zxing/qrcode
+END
+ErrorCorrectionLevel.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/plugin3.0_ios/!svn/ver/85/trunk/code/public/EUExScanner/EUExScanner/sourceCode/zxing/cpp/core/src/zxing/qrcode/ErrorCorrectionLevel.h
+END
+FormatInformation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/plugin3.0_ios/!svn/ver/85/trunk/code/public/EUExScanner/EUExScanner/sourceCode/zxing/cpp/core/src/zxing/qrcode/FormatInformation.cpp
+END
+QRCodeReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/plugin3.0_ios/!svn/ver/85/trunk/code/public/EUExScanner/EUExScanner/sourceCode/zxing/cpp/core/src/zxing/qrcode/QRCodeReader.cpp
+END
+FormatInformation.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/plugin3.0_ios/!svn/ver/85/trunk/code/public/EUExScanner/EUExScanner/sourceCode/zxing/cpp/core/src/zxing/qrcode/FormatInformation.h
+END
+QRCodeReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/plugin3.0_ios/!svn/ver/85/trunk/code/public/EUExScanner/EUExScanner/sourceCode/zxing/cpp/core/src/zxing/qrcode/QRCodeReader.h
+END
+Version.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/plugin3.0_ios/!svn/ver/85/trunk/code/public/EUExScanner/EUExScanner/sourceCode/zxing/cpp/core/src/zxing/qrcode/Version.cpp
+END
+ErrorCorrectionLevel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/plugin3.0_ios/!svn/ver/85/trunk/code/public/EUExScanner/EUExScanner/sourceCode/zxing/cpp/core/src/zxing/qrcode/ErrorCorrectionLevel.cpp
+END
+Version.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/plugin3.0_ios/!svn/ver/85/trunk/code/public/EUExScanner/EUExScanner/sourceCode/zxing/cpp/core/src/zxing/qrcode/Version.h
+END

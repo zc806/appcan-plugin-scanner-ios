@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/plugin3.0_ios/!svn/ver/85/trunk/code/public/EUExScanner/EUExScanner/sourceCode/zxing/cpp/core/src/zxing/multi/qrcode/detector
+END
+MultiDetector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/plugin3.0_ios/!svn/ver/85/trunk/code/public/EUExScanner/EUExScanner/sourceCode/zxing/cpp/core/src/zxing/multi/qrcode/detector/MultiDetector.cpp
+END
+MultiFinderPatternFinder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/plugin3.0_ios/!svn/ver/85/trunk/code/public/EUExScanner/EUExScanner/sourceCode/zxing/cpp/core/src/zxing/multi/qrcode/detector/MultiFinderPatternFinder.cpp
+END
+MultiDetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/plugin3.0_ios/!svn/ver/85/trunk/code/public/EUExScanner/EUExScanner/sourceCode/zxing/cpp/core/src/zxing/multi/qrcode/detector/MultiDetector.h
+END
+MultiFinderPatternFinder.h
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/plugin3.0_ios/!svn/ver/85/trunk/code/public/EUExScanner/EUExScanner/sourceCode/zxing/cpp/core/src/zxing/multi/qrcode/detector/MultiFinderPatternFinder.h
+END

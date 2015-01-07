@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plugin3.0_ios/!svn/ver/1142/trunk/code/public/EUExScanner/uexScanner
+END
+libuexScanner.a
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/plugin3.0_ios/!svn/ver/1028/trunk/code/public/EUExScanner/uexScanner/libuexScanner.a
+END
+info.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/plugin3.0_ios/!svn/ver/1028/trunk/code/public/EUExScanner/uexScanner/info.xml
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plugin3.0_ios/!svn/ver/803/trunk/code/public/EUExScanner/uexScanner/plugin.xml
+END
+uexScanner.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/plugin3.0_ios/!svn/ver/708/trunk/code/public/EUExScanner/uexScanner/uexScanner.dylib
+END
